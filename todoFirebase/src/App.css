@@ -1,0 +1,89 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.todo-title{
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 0px;
+  
+}
+
+.todo-id{
+  margin-top: 0px;
+  padding-top: 0px;
+  font-size: 16px;
+}
+.todo-add{
+  margin: 50px 0px 10px 0px;
+}
+.todo-input{
+  padding: 10px;
+  outline: none;
+  border: none;
+  margin-right: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+
+}
+.mytodos{
+  margin-bottom: 8px;
+  font-size: 20px;
+  background-color: rgb(173, 172, 172);
+  color: #1d1d1d;
+  padding: 10px;
+
+}
+
+.signout-btn{
+  background-color: rgb(93, 8, 8);
+  margin-top: 80px;
+  padding: 10px 50px;
+}
+
+
+.todo-login-div{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.todo-login-input{
+  width: 20rem;
+  padding: 10px;
+  outline: none;
+  border: none;
+  margin-right: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.login-title{
+  font-size: 38px;
+  font-weight: 600;
+  margin-bottom: 30px;
+
+}
+
+.todo-register-div{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.register-input{
+  width: 20rem;
+  padding: 10px;
+  outline: none;
+  border: none;
+  margin-right: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.login-register{
+  background-color: #1f1e1e;
+}

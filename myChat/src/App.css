@@ -1,0 +1,68 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: left;
+}
+
+
+
+
+
+.register-section{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.login-section{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.login-btn{
+  margin-top: 10px;
+  background-color: #1c6022;
+  width: 40rem;
+}
+
+input{
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  color: black;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-right: 20px;
+  font-size: 16px;
+  background-color: rgb(224, 224, 224);
+}
+
+.allmessages-time{
+  font-size: 10px;
+  margin: 0px;
+  color: #acacac;
+
+}
+
+.allmessage-user{
+  margin: 0px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.allmessage{
+  margin-bottom: 30px;
+}
+
+.allmessage-text{
+  border: 2px solid white;
+  padding: 10px;
+  margin: 10px 0px;
+  border-radius: 10px;
+}
+
+.chatroom-heading{
+  color: #ffffff;
+}
